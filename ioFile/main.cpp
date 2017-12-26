@@ -53,8 +53,6 @@ int main(){
 
 	//Close input file
 	inputFile.close();	
-
-	cout << endl;
 	
 	return 0;
 } 
